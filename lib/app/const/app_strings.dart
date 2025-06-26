@@ -1,0 +1,1 @@
+class AppStrings {  static const String appName = '';  static const String noInternet = 'No internet connection';}

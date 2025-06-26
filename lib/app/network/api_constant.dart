@@ -1,0 +1,1 @@
+class ApiConstants {  /// region API base  // Base parts  static const String _baseUrl = "http://203.109.113.155/";  static const String _providerV1Path = "/provider/v1";  static const String baseProviderV1 = "$_baseUrl$_providerV1Path";}

@@ -1,0 +1,1 @@
+class StorageConstant {  /// Key for storing the login status of the user.  static const String isLogin = 'isLogin';  /// Key for storing the access token.  static const String accessTokenStorage = 'accessTokenStorage';}
