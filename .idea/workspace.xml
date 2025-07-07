@@ -10,101 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="897ade52-07f1-4a0a-9036-5351bf74b460" name="Changes" comment="-- first commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/font/montserrat/Montserrat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/font/montserrat/Montserrat-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/font/montserrat/Montserrat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/font/montserrat/Montserrat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/font/montserrat/Montserrat-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/jpg/jp_slider_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/jpg/jp_slider_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_all.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_dentist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_eye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_gynec.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_notifciation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_ortho.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_plane.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/png/ig_yshfina.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/svg/ic_calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/svg/ic_checklist.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/svg/ic_degree.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/svg/ic_home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/svg/ic_location.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/svg/ic_profile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/svg/ic_right_arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/svg/ic_star1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/app/modules/modules.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/app/widgets/app_background.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/app/widgets/widget.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/ysh_fina_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/ysh_fina_android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/jpg/jp_slider_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/jpg/jp_slider_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_all.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_apple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_dentist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_eye.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_gynec.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_heart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_notifciation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_ortho.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_plane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/png/ig_yshfina.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/svg/ic_calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/svg/ic_checklist.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/svg/ic_home.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/asset/svg/ic_profile.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/asset/svg/ic_home.svg.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/jpg/jp_slider_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/jpg/jp_slider_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_all.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_apple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_dentist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_eye.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_gynec.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_heart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_notifciation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_ortho.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_plane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/png/ig_yshfina.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/svg/ic_calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/svg/ic_checklist.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/svg/ic_home.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/asset/svg/ic_profile.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/app/const/app_colors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/const/app_colors.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/app/const/app_dimens.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/const/app_dimens.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/app/const/app_font.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/const/app_font.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/app/const/app_strings.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/const/app_strings.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/app/const/const.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/const/const.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/app/network/api_client.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/network/api_client.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/app/routes/app_pages.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/routes/app_pages.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/app/routes/app_routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/routes/app_routes.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/app/utils/app_extension.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/utils/app_extension.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/app/utils/app_text_style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/app/utils/app_text_style.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751867478921</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="-- first commit">
+      <option name="closed" value="true" />
+      <created>1751868051717</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751868051717</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
