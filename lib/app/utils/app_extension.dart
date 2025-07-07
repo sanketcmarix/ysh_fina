@@ -122,7 +122,7 @@ extension StringExtension on String {
         messageText: Text(
           this,
           style: AppTextStyles.mediumTextStyle(
-            fontSize: font14,
+            fontSize: AppFontSizes.font14,
             fontColor: Colors.white,
           ),
         ),
@@ -147,7 +147,7 @@ extension StringExtension on String {
         messageText: Text(
           this,
           style: AppTextStyles.mediumTextStyle(
-            fontSize: font14,
+            fontSize: AppFontSizes.font14,
             fontColor: Colors.white,
           ),
         ),
@@ -172,7 +172,7 @@ extension StringExtension on String {
         messageText: Text(
           this,
           style: AppTextStyles.mediumTextStyle(
-            fontSize: font14,
+            fontSize: AppFontSizes.font14,
             fontColor: Colors.white,
           ),
         ),
@@ -193,12 +193,12 @@ extension StringExtension on String {
         snackStyle: SnackStyle.FLOATING,
         snackPosition: SnackPosition.TOP,
         duration: const Duration(seconds: 3),
-        backgroundColor: AppColors.primaryColor,
-        borderColor: AppColors.primaryColor,
+        backgroundColor: AppColors.primary,
+        borderColor: AppColors.primary,
         messageText: Text(
           this,
           style: AppTextStyles.mediumTextStyle(
-            fontSize: font14,
+            fontSize: AppFontSizes.font14,
             fontColor: Colors.white,
           ),
         ),
@@ -224,7 +224,7 @@ extension StringExtension on String {
         messageText: Text(
           this,
           style: AppTextStyles.mediumTextStyle(
-            fontSize: font14,
+            fontSize: AppFontSizes.font14,
             fontColor: Colors.white,
           ),
         ),

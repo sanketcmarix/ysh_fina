@@ -26,7 +26,14 @@ class AppDimens {
   static const double dimen80 = 80;
   static const double dimen100 = 100;
 
-
+  // Font sizes
+  static const double fontSize10 = 10;
+  static const double fontSize12 = 12;
+  static const double fontSize14 = 14;
+  static const double fontSize16 = 16;
+  static const double fontSize18 = 18;
+  static const double fontSize20 = 20;
+  static const double fontSize24 = 24;
 
   // Icon sizes
   static const double iconSize16 = 16;

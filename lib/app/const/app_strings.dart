@@ -1,1 +1,36 @@
-class AppStrings {  static const String appName = '';  static const String noInternet = 'No internet connection';}
+class AppStrings {
+  static const String appName = '';
+  static const String noInternet = 'No internet connection';
+  static const String loginTitle = 'Welcome back!';
+  static const String loginSubtitle = 'Glad to see you, Again!';
+  static const String emailOrPhone = 'Email or Phone Number';
+  static const String emailOrPhoneError = 'Please enter a valid email or phone number';
+  static const String password = 'Enter your Password';
+  static const String passwordError = 'Please enter your password';
+  static const String passwordLengthError = 'Password must be 6-12 characters';
+  static const String forgotPassword = 'Forgot Password?';
+  static const String login = 'Login';
+  static const String orLoginWith = 'Or Login with';
+  static const String noAccount = 'Don’t have an Account? ';
+  static const String registerNow = 'Register Now';
+  static const String searchDoctor = 'Search for doctor...';
+  static const String featuredDoctors = 'Featured Doctors';
+  static const String viewAll = 'View All';
+  static const String sliderTitle = 'Bringing Quality Healthcare Services to You';
+  static const String sliderDesc = 'Easily find and book appointments with top doctors, consult online from the comfort of your home...';
+  static const String explorePlanTitle = 'Flexible Subscription Plans for Every Healthcare Journey.';
+  static const String explorePlanBtn = 'Explore Plans';
+  static const String catAll = 'All';
+  static const String catDentist = 'Dentist';
+  static const String catCardio = 'Cardio...';
+  static const String catGynec = 'Gynec...';
+  static const String catOrtho = 'Ortho...';
+  static const String tabHome = 'Home';
+  static const String tabCalendar = 'Calendar';
+  static const String tabAppointment = 'Appointment';
+  static const String tabProfile = 'Profile';
+  static const String cart = 'Cart';
+  static const String cartEmpty = 'Your cart is empty.';
+  static const String notifications = 'Notifications';
+  static const String noNotifications = 'No notifications yet.';
+}

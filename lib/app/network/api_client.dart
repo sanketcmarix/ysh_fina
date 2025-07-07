@@ -1,4 +1,4 @@
-import 'dart:async';
+  import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/material.dart';
@@ -264,7 +264,7 @@ class ApiClient extends GetConnect {
       message,
       duration: const Duration(seconds: 3),
       backgroundColor: AppColors.errorRed,
-      colorText: AppColors.whiteColor,
+      colorText: AppColors.errorRed,
     );
   }
 
